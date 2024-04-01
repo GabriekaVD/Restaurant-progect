@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\kursova-popravka\kursova\kursova\bin\Debug\netcoreapp3.1\kursova.exe
+C:\Users\User\Desktop\kursova-popravka\kursova\kursova\bin\Debug\netcoreapp3.1\kursova.deps.json
+C:\Users\User\Desktop\kursova-popravka\kursova\kursova\bin\Debug\netcoreapp3.1\kursova.runtimeconfig.json
+C:\Users\User\Desktop\kursova-popravka\kursova\kursova\bin\Debug\netcoreapp3.1\kursova.runtimeconfig.dev.json
+C:\Users\User\Desktop\kursova-popravka\kursova\kursova\bin\Debug\netcoreapp3.1\kursova.dll
+C:\Users\User\Desktop\kursova-popravka\kursova\kursova\bin\Debug\netcoreapp3.1\kursova.pdb
+C:\Users\User\Desktop\kursova-popravka\kursova\kursova\obj\Debug\netcoreapp3.1\kursova.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\kursova-popravka\kursova\kursova\obj\Debug\netcoreapp3.1\kursova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\kursova-popravka\kursova\kursova\obj\Debug\netcoreapp3.1\kursova.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\kursova-popravka\kursova\kursova\obj\Debug\netcoreapp3.1\kursova.AssemblyInfo.cs
+C:\Users\User\Desktop\kursova-popravka\kursova\kursova\obj\Debug\netcoreapp3.1\kursova.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\kursova-popravka\kursova\kursova\obj\Debug\netcoreapp3.1\kursova.dll
+C:\Users\User\Desktop\kursova-popravka\kursova\kursova\obj\Debug\netcoreapp3.1\kursova.pdb
+C:\Users\User\Desktop\kursova-popravka\kursova\kursova\obj\Debug\netcoreapp3.1\kursova.genruntimeconfig.cache
